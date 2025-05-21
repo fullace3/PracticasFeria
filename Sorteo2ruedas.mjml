@@ -56,12 +56,14 @@
     </mj-section>
     <mj-section background-color="#e6323e">
       <mj-column width="60%">
+      <mj-text>
+      </mj-text>
         <mj-text mj-class="texto-pequeño">
           Consulta las <a href="#">Bases legales</a>
         </mj-text>
       </mj-column>
       <mj-column width="40%">
-        <mj-text mj-class="texto-pequeño">
+        <mj-text mj-class="texto-pequeño" padding-left="50px">
           Siguenos
         </mj-text>
         <mj-social>
