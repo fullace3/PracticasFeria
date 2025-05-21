@@ -56,8 +56,8 @@
     </mj-section>
     <mj-section background-color="#e6323e">
       <mj-column width="60%">
-      <mj-text>
-      </mj-text>
+        <mj-text>
+        </mj-text>
         <mj-text mj-class="texto-pequeño">
           Consulta las <a href="#">Bases legales</a>
         </mj-text>
