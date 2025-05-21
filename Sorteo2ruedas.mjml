@@ -47,13 +47,25 @@
     </mj-section>
     <mj-section background-color="#000000" padding="0px" >
     <mj-column width="100%">
-      <mj-button padding-top="25px" padding-bottom="20px">
-        Boton link
+      <mj-button padding-top="25px" padding-bottom="20px" border-radius="50px" background-color="#e6323e" href="#">
+        Consigue tus entradas
       </mj-button>
-      <mj-text mj-class="texto-pequeño" >
+      <mj-text mj-class="texto-pequeño" padding-bottom="30px">
           Imagina el rugido ensordecedor de los motores, la vibración del asfalto bajo tus pies y la adrenalina de cada adelantamiento en la recta final. El Gran Premio de Cheste es mucho más que una carrera; es una celebración de la velocidad y la pasión, y tú puedes vivirlo en primera persona
         </mj-text>
     </mj-column>
+    </mj-section>
+    <mj-section background-color="#e6323e">
+      <mj-column width="50%">
+        <mj-text>
+          Bases legales y eso no se que poner de momento esto hay que cambiarlo no te olvides
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text>
+          ou yea esto tambien
+        </mj-text>
+      </mj-column>
     </mj-section>
   </mj-body>
 </mjml>
