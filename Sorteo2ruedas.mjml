@@ -21,23 +21,29 @@
         <mj-image src="media/Gran-Premio-Cheste.jpg" alt="" />
         <mj-divider border-style="Solid" border-color="#e6323e" border-width="1px"/>
         <mj-text mj-class="texto" font-size="15px">
-          Sorteo de entradas para el GP de Cheste
+          Sorteo de entradas para el GP de Cheste.
+        </mj-text>
+        <mj-text mj-class="texto">
+          No pierdas esta <b>oportunidad irrepetible.</b>
+        </mj-text>
+        <mj-text mj-class="texto">
+          Esta oportunidad solo se presenta <b>una vez en la vida</b> la posibilidad de ir al GP de Cheste totalmente 
         </mj-text>
         <mj-text mj-class="texto" padding-bottom="25px">
-          No pierdas esta <b>oportunidad irrepetible</b>
+          Es una <b>oferta única e increíble </b> para todos los fans del motociclismo.
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#e6323e">
       <mj-column width="100%">
-        <mj-text mj-class="texto-pequeño">
-          Esta oportunidad solo se presenta <b>una vez en la vida</b> la posibilidad de ir al GP de Cheste totalmente gratis. 
-          Es una oferta unica e increible para todos los fans del motociclismo.
+      <mj-text mj-class="texto-pequeño">
+          Imagina el rugido ensordecedor de los motores, la vibración del asfalto bajo tus pies y la adrenalina de cada adelantamiento en la recta final. El Gran Premio de Cheste es mucho más que una carrera; es una celebración de la velocidad y la pasión, y tú puedes vivirlo en primera persona
         </mj-text>
+        
       </mj-column>
       <mj-column width="100%">
         <mj-text mj-class="texto-pequeño">
-          Para conseguir esta increible entrada solo tienes que rellenar la encuesta antes del 1 de Septiembre date prisa y no las pierdas!
+          ¡Para conseguir esta increíble entrada solo tienes que rellenar la encuesta antes del 1 de septiembre <b>date prisa </b> y no las pierdas!
         </mj-text>
       </mj-column>
     </mj-section>
