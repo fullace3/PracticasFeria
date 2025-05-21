@@ -1,9 +1,10 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-class name="texto-Grande" color="white" font-size="25px"/>
+      <mj-class name="texto-Titulo" color="white" font-size="25px" padding-top="20px" padding-bottom="20px"/>
       <mj-class name="texto" color="white" font-size="20px" padding-left="25px"/>
       <mj-class name="texto-pequeño" align="justify" color="white" font-size="15px" padding-left="25px" padding-right="25px"/>
+      <mj-class name="texto-pequeñoIntermedio" align="justify" color="white" font-size="18px" padding-left="25px" padding-right="25px"/>
     </mj-attributes>
   </mj-head>
   <mj-body>
@@ -14,7 +15,7 @@
     </mj-section>
     <mj-section background-color="#000000" padding="0px" >
       <mj-column width="100%" padding-top="15px">
-        <mj-text mj-class="texto-Grande">
+        <mj-text mj-class="texto-Titulo">
           <b>¡¡¡¡ ATENCIÓN !!!!</b>
         </mj-text>
         <mj-divider border-style="Solid" border-color="#e6323e" border-width="1px"/>
@@ -36,15 +37,23 @@
     </mj-section>
     <mj-section background-color="#e6323e">
       <mj-column width="100%">
-      <mj-text mj-class="texto-pequeño" >
-          Imagina el rugido ensordecedor de los motores, la vibración del asfalto bajo tus pies y la adrenalina de cada adelantamiento en la recta final. El Gran Premio de Cheste es mucho más que una carrera; es una celebración de la velocidad y la pasión, y tú puedes vivirlo en primera persona
-        </mj-text>
+      
       </mj-column>
       <mj-column width="100%">
-        <mj-text mj-class="texto-pequeño">
+        <mj-text mj-class="texto-pequeñoIntermedio">
           ¡Para conseguir esta increíble entrada solo tienes que rellenar la encuesta antes del 1 de septiembre <b>date prisa </b> y no las pierdas!
         </mj-text>
       </mj-column>
+    </mj-section>
+    <mj-section background-color="#000000" padding="0px" >
+    <mj-column width="100%">
+      <mj-button padding-top="25px" padding-bottom="20px">
+        Boton link
+      </mj-button>
+      <mj-text mj-class="texto-pequeño" >
+          Imagina el rugido ensordecedor de los motores, la vibración del asfalto bajo tus pies y la adrenalina de cada adelantamiento en la recta final. El Gran Premio de Cheste es mucho más que una carrera; es una celebración de la velocidad y la pasión, y tú puedes vivirlo en primera persona
+        </mj-text>
+    </mj-column>
     </mj-section>
   </mj-body>
 </mjml>
