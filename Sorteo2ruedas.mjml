@@ -1,6 +1,8 @@
 <mjml>
   <mj-head>
-
+    <mj-attributes>
+      <mj-class name="texto" color="white" />
+    </mj-attributes>
   </mj-head>
   <mj-body>
     <mj-section background-color="white" padding="0px">
@@ -10,11 +12,21 @@
     </mj-section>
     <mj-section background-color="#000000" padding-top="0px">
       <mj-column width="100%" padding-top="15px">
-        <mj-text color="white" font-size="20px">
+        <mj-text mj-class="texto" font-size="20px">
           ATENCIÓN !!!!
         </mj-text>
-        <mj-text color="white">
-          Queda poco tiempo
+        <mj-text mj-class="texto" font-size="15px">
+          Sorteo de entradas para el GP de Cheste
+        </mj-text>
+        <mj-text mj-class="texto">
+          No pierdas esta oportunidad increible
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#e6323e">
+      <mj-column width="100%">
+        <mj-text mj-class="texto">
+          Para conseguir esta increible entrada solo tienes que rellenar la encuesta antes del 1 de Septiembre date prisa y no las pierdas!
         </mj-text>
       </mj-column>
     </mj-section>
