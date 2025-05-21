@@ -1,10 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-style>
-      .texto {
-        color: white !important;
-      }
-    </mj-style>
+
   </mj-head>
   <mj-body>
     <mj-section background-color="white" padding="0px">
@@ -14,10 +10,10 @@
     </mj-section>
     <mj-section background-color="#000000" padding-top="0px">
       <mj-column width="100%" padding-top="15px">
-        <mj-text css-class="texto" font-size="20px">
+        <mj-text color="white" font-size="20px">
           ATENCIÓN !!!!
         </mj-text>
-        <mj-text css-class="texto">
+        <mj-text color="white">
           Queda poco tiempo
         </mj-text>
       </mj-column>
