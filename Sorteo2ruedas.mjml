@@ -1,9 +1,9 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-class name="texto-Grande" color="white" font-size="20px"/>
-      <mj-class name="texto" color="white" font-size="15px"/>
-      <mj-class name="texto-pequeño" color="white"/>
+      <mj-class name="texto-Grande" color="white" font-size="25px"/>
+      <mj-class name="texto" color="white" font-size="20px" padding-left="25px"/>
+      <mj-class name="texto-pequeño" align="justify" color="white" font-size="15px" padding-left="25px" padding-right="25px"/>
     </mj-attributes>
   </mj-head>
   <mj-body>
@@ -20,14 +20,14 @@
         <mj-divider border-style="Solid" border-color="#e6323e" border-width="1px"/>
         <mj-image src="media/Gran-Premio-Cheste.jpg" alt="" />
         <mj-divider border-style="Solid" border-color="#e6323e" border-width="1px"/>
-        <mj-text mj-class="texto" font-size="15px">
+        <mj-text mj-class="texto">
           Sorteo de entradas para el GP de Cheste.
         </mj-text>
         <mj-text mj-class="texto">
           No pierdas esta <b>oportunidad irrepetible.</b>
         </mj-text>
         <mj-text mj-class="texto">
-          Esta oportunidad solo se presenta <b>una vez en la vida</b> la posibilidad de ir al GP de Cheste totalmente 
+          Esta oportunidad solo se presenta <b>una vez en la vida</b> la posibilidad de ir al GP de Cheste <b>totalmente gratis.</b> 
         </mj-text>
         <mj-text mj-class="texto" padding-bottom="25px">
           Es una <b>oferta única e increíble </b> para todos los fans del motociclismo.
@@ -36,10 +36,9 @@
     </mj-section>
     <mj-section background-color="#e6323e">
       <mj-column width="100%">
-      <mj-text mj-class="texto-pequeño">
+      <mj-text mj-class="texto-pequeño" >
           Imagina el rugido ensordecedor de los motores, la vibración del asfalto bajo tus pies y la adrenalina de cada adelantamiento en la recta final. El Gran Premio de Cheste es mucho más que una carrera; es una celebración de la velocidad y la pasión, y tú puedes vivirlo en primera persona
         </mj-text>
-        
       </mj-column>
       <mj-column width="100%">
         <mj-text mj-class="texto-pequeño">
