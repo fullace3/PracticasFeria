@@ -50,7 +50,7 @@
           Consigue tus entradas
         </mj-button>
         <mj-text mj-class="texto-pequeño" padding-bottom="30px">
-          Imagina el rugido ensordecedor de los motores, la vibración del asfalto bajo tus pies y la adrenalina de cada adelantamiento en la recta final. El Gran Premio de Cheste es mucho más que una carrera; es una celebración de la velocidad y la pasión, y tú puedes vivirlo en primera persona
+          Imagina el rugido ensordecedor de los motores, la vibración del asfalto bajo tus pies y la adrenalina de cada adelantamiento en la recta final. El Gran Premio de Cheste es mucho más que una carrera; es una celebración de la velocidad y la pasión, y tú puedes vivirlo en primera persona.
         </mj-text>
       </mj-column>
     </mj-section>
