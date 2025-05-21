@@ -57,14 +57,27 @@
     </mj-section>
     <mj-section background-color="#e6323e">
       <mj-column width="50%">
-        <mj-text>
+        <mj-text mj-class="texto-pequeño">
           Bases legales y eso no se que poner de momento esto hay que cambiarlo no te olvides
         </mj-text>
       </mj-column>
-      <mj-column width="50%">
-        <mj-text>
-          ou yea esto tambien
+      <mj-column width="20%">
+        
+      </mj-column>
+      <mj-column width="30%">
+        <mj-text mj-class="texto-pequeño">
+          Siguenos
         </mj-text>
+        <mj-social>
+          <mj-social-element name="facebook">
+          </mj-social-element>
+          <mj-social-element name="instagram">
+          </mj-social-element>
+          <mj-social-element name="twitter">
+          </mj-social-element>
+          <mj-social-element name="youtube">
+          </mj-social-element>
+        </mj-social>
       </mj-column>
     </mj-section>
   </mj-body>
