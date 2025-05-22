@@ -6,6 +6,9 @@
       <mj-class name="texto-pequeño" font-family="Sans-Serif" align="justify" color="white" font-size="15px" padding-left="25px" padding-right="25px" />
       <mj-class name="texto-pequeñoIntermedio" font-family="Sans-Serif" align="justify" color="white" font-size="18px" padding-left="25px" padding-right="25px" />
     </mj-attributes>
+    <mj-style>
+      <mj-breakpoint width="480px" />
+    </mj-style>
   </mj-head>
   <mj-body>
     <mj-section background-color="white" padding="0px">
