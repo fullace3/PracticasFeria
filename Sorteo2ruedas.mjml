@@ -79,7 +79,7 @@
       </mj-column>
       <mj-column width="100%">
         <mj-text mj-class="texto-pequeño">
-          <a href="#">Aviso legal</a> | <a href="#">Política de privacidad</a> | <a href="#">Política de cookies</a> | <a href="#">Política de privacidad</a>
+          <a href="#">Aviso legal</a> | <a href="#">Política de privacidad</a> | <a href="#">Política de cookies</a>
         </mj-text>
       </mj-column>
     </mj-section>
