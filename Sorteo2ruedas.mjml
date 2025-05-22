@@ -10,7 +10,7 @@
   <mj-body>
     <mj-section background-color="white" padding="0px">
       <mj-column width="100%" padding-bottom="0px">
-        <mj-image src="./media/Cabecera_mail_2Ruedas_2024_expositores.jpg" alt="" />
+        <mj-image src="./media/Cabecera_mail_2Ruedas_2024_expositores.jpg" alt="Banner de la feria 2 Ruedas" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#000000" padding="0px">
@@ -19,7 +19,7 @@
           <b>¡¡¡¡ ATENCIÓN !!!!</b>
         </mj-text>
         <mj-divider border-style="Solid" border-color="#e6323e" border-width="1px" />
-        <mj-image src="media/Gran-Premio-Cheste.jpg" alt="" />
+        <mj-image src="media/Gran-Premio-Cheste.jpg" alt="Imagen del circuito de Cheste durante una carrera" />
         <mj-divider border-style="Solid" border-color="#e6323e" border-width="1px" />
         <mj-text mj-class="subtitulo">
           Sorteo de entradas para el GP de Cheste.
