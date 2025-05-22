@@ -56,14 +56,15 @@
     </mj-section>
     <mj-section background-color="#e6323e">
       <mj-column width="60%">
-        <mj-text>
-        </mj-text>
         <mj-text mj-class="texto-pequeño">
           Consulta las <a href="#">Bases legales</a>
         </mj-text>
+        <mj-text mj-class="texto-pequeño">
+          <a href="#">Aviso legal</a> | <a href="#">Política de privacidad</a> | <a href="#">Política de cookies</a>
+        </mj-text>
       </mj-column>
       <mj-column width="40%">
-        <mj-text mj-class="texto-pequeño" padding-left="50px">
+        <mj-text mj-class="texto-pequeño" padding-left="65px">
           Siguenos
         </mj-text>
         <mj-social>
@@ -76,11 +77,6 @@
           <mj-social-element name="youtube">
           </mj-social-element>
         </mj-social>
-      </mj-column>
-      <mj-column width="100%">
-        <mj-text mj-class="texto-pequeño">
-          <a href="#">Aviso legal</a> | <a href="#">Política de privacidad</a> | <a href="#">Política de cookies</a>
-        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
