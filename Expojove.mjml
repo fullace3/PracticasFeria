@@ -4,7 +4,7 @@
             <mj-class name="Titulo" font-size="30px"/>
             <mj-class name="Texto" font-size="18px"/>
             <mj-class name="Texto-Titulos" font-size="25px"/>
-            <mj-class name="Texto-Pequeño" font-size="15px" background-color="#013088" border-radius="20px"/>
+            <mj-class name="Texto-Pequeño" font-size="15px" background-color="#9CBDC8" border-radius="20px"/>
             <mj-class name="Texto-Final" color="#FFFFFF"/>
         </mj-attributes>
     </mj-head>
@@ -24,7 +24,7 @@
                 <mj-text mj-class="Texto">
                     Estamos emocionados de que formes parte de la 41ª edición de Expojove, la Feria de la Infancia y la Juventud de València. Para garantizar que tu participación sea un éxito y aproveches al máximo todas las oportunidades, hemos preparado esta guía con los servicios y recursos clave para tu stand, y los pasos sencillos para solicitarlos.
                 </mj-text>
-                <mj-divider border-style="Solid" border-color="#013088"/>
+                <mj-divider border-style="Solid" border-color="#9CBDC8"/>
             </mj-column>
         </mj-section>
         <mj-section background-color="#FFFFFF">
@@ -42,7 +42,7 @@
                 <mj-button mj-class="Texto-Pequeño" href="#">
                     Solicitalo ya
                 </mj-button>
-                <mj-divider border-style="Solid" border-color="#013088"/>
+                <mj-divider border-style="Solid" border-color="#9CBDC8"/>
             </mj-column>
         </mj-section>
         <mj-section background-color="#FFFFFF">
@@ -59,7 +59,7 @@
                 <mj-button mj-class="Texto-Pequeño" href="#">
                     Solicitalo ya
                 </mj-button>
-                <mj-divider border-style="Solid" border-color="#013088"/>
+                <mj-divider border-style="Solid" border-color="#9CBDC8"/>
             </mj-column>
         </mj-section>
         <mj-section background-color="#FFFFFF">
@@ -77,7 +77,7 @@
                 <mj-button mj-class="Texto-Pequeño" href="#">
                     Solicitalo ya
                 </mj-button>
-                <mj-divider border-style="Solid" border-color="#013088"/>
+                <mj-divider border-style="Solid" border-color="#9CBDC8"/>
             </mj-column>
         </mj-section>
         <mj-section background-color="#FFFFFF">
