@@ -5,6 +5,7 @@
             <mj-class name="Texto" font-size="18px"/>
             <mj-class name="Texto-Titulos" font-size="25px"/>
             <mj-class name="Texto-Pequeño" font-size="15px" background-color="#013088" border-radius="20px"/>
+            <mj-class name="Texto-Final" color="#FFFFFF"/>
         </mj-attributes>
     </mj-head>
     <mj-body >
@@ -100,8 +101,30 @@
             </mj-column>
         </mj-section>
         <mj-section background-color="#013088">
-            <mj-column width="100%">
-                
+            <mj-column width="60%">
+                <mj-text mj-class="Texto-Final">
+                    Esta comunicación está dirigida exclusivamente a los expositores registrados en Expojove 2024/2025.
+                </mj-text>
+                <mj-text font-style="italic" mj-class="Texto-Final">
+                    Todos los derechos reservados © 2024 Expojove – Feria de la Infancia y la Juventud de Valencia. 
+                </mj-text>
+                <mj-text mj-class="Texto-Final">
+                    <a>Política de privacidad</a> | <a>Aviso legal</a> | <a>Configuración de cookies</a>
+                </mj-text>
+            </mj-column>
+            <mj-column width="40%">
+                <mj-text mj-class="Texto-Final" padding-left="70px">
+                    Siguenos
+                </mj-text>
+                <mj-social>
+                    <mj-social-element name="facebook">
+                    </mj-social-element>
+                    <mj-social-element name="instagram">
+                    </mj-social-element>
+                    <mj-social-element name="linkedin">
+                    </mj-social-element>
+                </mj-social>
+                <mj-image align="center" href="https://www.feriavalencia.com/"  src="https://media.feriavalencia.com/mail/marketing/2022/automovil/img/Logo_FV_blanco.png" width="120px" alt="logo feria valencia" align="left" border="none" padding-bottom="0px" padding-top="0px">
             </mj-column>
         </mj-section>
     </mj-body>
