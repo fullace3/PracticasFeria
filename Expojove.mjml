@@ -7,6 +7,50 @@
             <mj-class name="Texto-Pequeño" font-size="15px" background-color="#9CBDC8" border-radius="20px"/>
             <mj-class name="Texto-Final" color="#FFFFFF"/>
         </mj-attributes>
+        <mj-style>
+                  @media (max-width: 479px) {
+        .Titulo {
+          font-size: 20px !important;
+          padding-top: 15px !important;
+          padding-bottom: 15px !important;
+        }
+        .Texto-Titulos {
+          font-size: 16px !important;
+          padding-left: 15px !important;
+        }
+        .Texto-Pequeño {
+          font-size: 13px !important;
+          padding-left: 15px !important;
+          padding-right: 15px !important;
+        }
+        .Texto-Final {
+          font-size: 15px !important;
+          padding-left: 15px !important;
+          padding-right: 15px !important;
+        }
+      }
+        @media (max-width: 600px) {
+        .Titulo {
+          font-size: 22px !important;
+          padding-top: 15px !important;
+          padding-bottom: 15px !important;
+        }
+        .Texto-Titulos {
+          font-size: 18px !important;
+          padding-left: 15px !important;
+        }
+        .Texto-Pequeño {
+          font-size: 15px !important;
+          padding-left: 15px !important;
+          padding-right: 15px !important;
+        }
+        .Texto-Final {
+          font-size: 16px !important;
+          padding-left: 15px !important;
+          padding-right: 15px !important;
+        }
+      }
+        </mj-style>
     </mj-head>
     <mj-body >
         <mj-section padding="0px" background-color="#FFFFFF">
