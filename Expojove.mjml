@@ -30,7 +30,7 @@
                 <mj-text mj-class="Texto-Titulos">
                     1. Electricidad e iluminación
                 </mj-text>
-                <mj-text padding-top="25px">
+                <mj-text padding-top="10px" mj-class="Texto">
                     <ul>
                     <li>Descripción : Acceso a puntos eléctricos y sistemas de iluminación adaptados a tu stand. Disponible en diferentes potencias según tus necesidades.</li>
                     <li>Cómo solicitarlo : Completa el formulario técnico adjunto con los detalles de consumo eléctrico requerido (vatios, cantidad de enchufes, tipo de conexión).</li>
@@ -39,6 +39,38 @@
                 </mj-text>
                 <mj-divider border-style="Solid" border-color="#A0BEC8"/>
             </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF">
+            <mj-column width="100%">
+                <mj-text mj-class="Texto-Titulos">
+                    2. Internet y red wifi
+                </mj-text>
+                <mj-text padding-top="10px" mj-class="Texto">
+                    <ul>
+                    <li>Descripción : Acceso a internet de alta velocidad dedicado exclusivamente a expositores. Opciones: básica (gratuita) o premium (de pago).</li>
+                    <li>Cómo solicitarlo : Confirma tu preferencia al momento de confirmar tu participación o desde el área de servicios en nuestra plataforma.</li>
+                    </ul>
+                </mj-text>
+                <mj-divider border-style="Solid" border-color="#A0BEC8"/>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF">
+            <mj-column width="100%">
+                <mj-text mj-class="Texto-Titulos">
+                    3. Mobiliario y decoración
+                </mj-text>
+                <mj-text padding-top="10px" mj-class="Texto">
+                    <ul>
+                    <li>Descripción : Mesa(s), silla(s), mostrador, estantes u otros elementos de mobiliario para tu espacio. También ofrecemos opciones de decoración temática bajo presupuesto.</li>
+                    <li>Cómo solicitarlo : Haz tu pedido desde el apartado "Mobiliario" en la web de Expojove o descarga el catálogo <a href="https://www.expojove.com/es/home/">aquí</a>.</li>
+                    <li>Plazo límite para solicitud: 14 dias antes del evento. </li>
+                    </ul>
+                </mj-text>
+                <mj-divider border-style="Solid" border-color="#A0BEC8"/>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            
         </mj-section>
     </mj-body>
 </mjml>
