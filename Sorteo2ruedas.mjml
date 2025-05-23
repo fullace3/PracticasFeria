@@ -42,7 +42,7 @@
           <b>¡¡¡¡ ATENCIÓN !!!!</b>
         </mj-text>
         <mj-divider border-style="Solid" border-color="#e6323e" border-width="1px" />
-        <mj-image src="media/Gran-Premio-Cheste.jpg" alt="Imagen del circuito de Cheste durante una carrera" />
+        <mj-image src="media/img1.jpg" alt="Imagen de feria" />
         <mj-divider border-style="Solid" border-color="#e6323e" border-width="1px" />
         <mj-text mj-class="subtitulo">
           Sorteo de entradas para el GP de Cheste.
