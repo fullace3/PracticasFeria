@@ -1,0 +1,28 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class name="Titulo" font-size="30px"/>
+            <mj-class name="Texto" font-size="18px"/>
+        </mj-attributes>
+    </mj-head>
+    <mj-body >
+        <mj-section padding="0px" background-color="#FFFFFF">
+            <mj-column width="100%" >
+                <mj-image src="media/Cabecera_Email_Expojove_2024.jpg" alt="Cabecera Expojove"/>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF" padding="0px">
+            <mj-column width="100%" padding-bottom="15px">
+                <mj-text mj-class="Titulo">
+                    ¡Bienvenido a Expojove 24/25!
+                </mj-text>
+            </mj-column>
+            <mj-column width="100%">
+                <mj-text mj-class="Texto">
+                    Estamos emocionados de que formes parte de la 41ª edición de Expojove, la Feria de la Infancia y la Juventud de València. Para garantizar que tu participación sea un éxito y aproveches al máximo todas las oportunidades, hemos preparado esta guía con los servicios y recursos clave para tu stand, y los pasos sencillos para solicitarlos.
+                </mj-text>
+                <mj-divider border-style="Solid" border-color="#A0BEC8"/>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
