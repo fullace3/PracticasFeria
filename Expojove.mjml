@@ -4,6 +4,7 @@
             <mj-class name="Titulo" font-size="30px"/>
             <mj-class name="Texto" font-size="18px"/>
             <mj-class name="Texto-Titulos" font-size="25px"/>
+            <mj-class name="Texto-Pequeño" font-size="15px" background-color="#013088" border-radius="20px"/>
         </mj-attributes>
     </mj-head>
     <mj-body >
@@ -37,7 +38,10 @@
                     <li>Plazo límite para solicitud : 7 días antes del evento.</li>
                     </ul>
                 </mj-text>
-                <mj-divider border-style="Solid" border-color="#A0BEC8"/>
+                <mj-button mj-class="Texto-Pequeño" href="#">
+                    Solicitalo ya
+                </mj-button>
+                <mj-divider border-style="Solid" border-color="#013088"/>
             </mj-column>
         </mj-section>
         <mj-section background-color="#FFFFFF">
@@ -51,7 +55,10 @@
                     <li>Cómo solicitarlo : Confirma tu preferencia al momento de confirmar tu participación o desde el área de servicios en nuestra plataforma.</li>
                     </ul>
                 </mj-text>
-                <mj-divider border-style="Solid" border-color="#A0BEC8"/>
+                <mj-button mj-class="Texto-Pequeño" href="#">
+                    Solicitalo ya
+                </mj-button>
+                <mj-divider border-style="Solid" border-color="#013088"/>
             </mj-column>
         </mj-section>
         <mj-section background-color="#FFFFFF">
@@ -66,11 +73,36 @@
                     <li>Plazo límite para solicitud: 14 dias antes del evento. </li>
                     </ul>
                 </mj-text>
-                <mj-divider border-style="Solid" border-color="#A0BEC8"/>
+                <mj-button mj-class="Texto-Pequeño" href="#">
+                    Solicitalo ya
+                </mj-button>
+                <mj-divider border-style="Solid" border-color="#013088"/>
             </mj-column>
         </mj-section>
-        <mj-section>
-            
+        <mj-section background-color="#FFFFFF">
+            <mj-column width="100%">
+                <mj-text mj-class="Texto" padding-left="50px">
+                    Ante cualquier duda no dudes en contactarnos:
+                </mj-text>
+            </mj-column>
+            <mj-column width="50%">
+                <mj-image src="media/newsexpo1.png" alt="" align="left" padding-top="30px"/>
+            </mj-column>
+            <mj-column width="50%">
+                <mj-text mj-class="Texto" padding-left="0px">
+                    <ul>
+                        <li>Correo electrónico: info@expojove.com</li>
+                        <li>Telefono : +XX XXXXXXXX</li>
+                        <li>Horario de atención : Lunes a viernes, 9:00 AM - 6:00 PM</li>
+                        <li>Pagina web : [www.expojove.com]</li>
+                    </ul>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#013088">
+            <mj-column width="100%">
+                
+            </mj-column>
         </mj-section>
     </mj-body>
 </mjml>

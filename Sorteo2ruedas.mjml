@@ -100,6 +100,7 @@
           <mj-social-element name="youtube">
           </mj-social-element>
         </mj-social>
+        <mj-image align="center" href="https://www.feriavalencia.com/"  src="https://media.feriavalencia.com/mail/marketing/2022/automovil/img/Logo_FV_blanco.png" width="120px" alt="logo feria valencia" align="left" border="none" padding-bottom="0px" padding-top="0px">
       </mj-column>
     </mj-section>
   </mj-body>
