@@ -55,7 +55,7 @@
     <mj-body >
         <mj-section padding="0px" background-color="#FFFFFF">
             <mj-column width="100%" >
-               <mj-image src="media/Cabecera_Email_Expojove_2024.jpg" alt="Cabecera Expojove" href="https://www.expojove.com/es/home/"/>
+               <mj-image src="https://imagenes2334.s3.us-east-1.amazonaws.com/media/Cabecera_Email_Expojove_2024.jpg" alt="Cabecera Expojove" href="https://www.expojove.com/es/home/"/>
             </mj-column>
         </mj-section>
         <mj-section background-color="#FFFFFF" padding="0px">
@@ -131,7 +131,7 @@
                 </mj-text>
             </mj-column>
             <mj-column width="50%">
-                <mj-image src="media/newsexpo1.png" alt="" align="left" padding-top="30px"/>
+                <mj-image src="https://imagenes2334.s3.us-east-1.amazonaws.com/media/newsexpo1.png" alt="" align="left" padding-top="30px"/>
             </mj-column>
             <mj-column width="50%">
                 <mj-text mj-class="Texto" padding-left="0px">
