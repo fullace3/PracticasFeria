@@ -1,41 +1,41 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-class name="texto-Titulo" font-family="Sans-Serif" color="white" font-size="25px" padding-top="20px" padding-bottom="20px" />
-      <mj-class name="subtitulo" font-family="Sans-Serif" color="white" font-size="20px" padding-left="25px" />
-      <mj-class name="texto-pequeño" font-family="Sans-Serif" align="justify" color="white" font-size="15px" padding-left="25px" padding-right="25px" />
-      <mj-class name="texto-pequeñoIntermedio" font-family="Sans-Serif" align="justify" color="white" font-size="18px" padding-left="25px" padding-right="25px" />
+      <mj-class name="texto-Titulo" font-family="Sans-Serif" color="white" font-size="30px" padding-top="20px" padding-bottom="20px" />
+      <mj-class name="subtitulo" font-family="Sans-Serif" color="white" font-size="25px" padding-left="25px" />
+      <mj-class name="texto-pequeño" font-family="Sans-Serif" align="justify" color="white" font-size="20px" padding-left="25px" padding-right="25px" />
+      <mj-class name="texto-pequeñoIntermedio" font-family="Sans-Serif" align="justify" color="white" font-size="20px" padding-left="25px" padding-right="25px" />
     </mj-attributes>
         <mj-style>
       @media (max-width: 479px) {
         .texto-Titulo {
-          font-size: 20px !important;
+          font-size: 25px !important;
           padding-top: 15px !important;
           padding-bottom: 15px !important;
         }
         .subtitulo {
-          font-size: 16px !important;
+          font-size: 20px !important;
           padding-left: 15px !important;
         }
         .texto-pequeño {
-          font-size: 13px !important;
+          font-size: 16px !important;
           padding-left: 15px !important;
           padding-right: 15px !important;
         }
         .texto-pequeñoIntermedio {
-          font-size: 15px !important;
+          font-size: 18px !important;
           padding-left: 15px !important;
           padding-right: 15px !important;
         }
       }
         @media (max-width: 600px) {
         .texto-Titulo {
-          font-size: 22px !important;
+          font-size: 23px !important;
           padding-top: 15px !important;
           padding-bottom: 15px !important;
         }
         .subtitulo {
-          font-size: 18px !important;
+          font-size: 20px !important;
           padding-left: 15px !important;
         }
         .texto-pequeño {
@@ -44,7 +44,7 @@
           padding-right: 15px !important;
         }
         .texto-pequeñoIntermedio {
-          font-size: 16px !important;
+          font-size: 18px !important;
           padding-left: 15px !important;
           padding-right: 15px !important;
         }
